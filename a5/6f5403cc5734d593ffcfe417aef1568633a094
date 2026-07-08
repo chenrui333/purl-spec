@@ -1,0 +1,23 @@
+docs/types/definitions/brew-definition.md
+  s_256cce765cdfeb::t_68d2847fad30bc 26
+tests/types/brew-test.json
+  s_256cce765cdfeb::t_6fa67fd5b18682 193-217
+types/brew-definition.json
+  s_256cce765cdfeb::t_0eb9160e1ea103 15-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a56f5403cc5734d593ffcfe417aef1568633a094",
+  "prompts": {},
+  "sessions": {
+    "s_256cce765cdfeb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f41bc-788c-7ff2-ac03-9bf0678f1479",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
