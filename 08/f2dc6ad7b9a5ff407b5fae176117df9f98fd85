@@ -1,0 +1,30 @@
+docs/types/definitions/rpm-definition.md
+  s_256cce765cdfeb::t_9bdedd16a85201 50
+purl-types-index.json
+  s_256cce765cdfeb::t_233ab5e57d9011 7
+docs/types/definitions/brew-definition.md
+  s_256cce765cdfeb::t_233ab5e57d9011 1-31,33-58
+  s_256cce765cdfeb::t_9bdedd16a85201 32
+types/brew-definition.json
+  s_256cce765cdfeb::t_87237c7eb0ec96 20-21
+  s_256cce765cdfeb::t_233ab5e57d9011 1-19,22-46
+tests/types/brew-test.json
+  s_256cce765cdfeb::t_233ab5e57d9011 1-45,71-273
+  s_256cce765cdfeb::t_4b5e621d3b5cc5 46-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "08f2dc6ad7b9a5ff407b5fae176117df9f98fd85",
+  "prompts": {},
+  "sessions": {
+    "s_256cce765cdfeb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f41bc-788c-7ff2-ac03-9bf0678f1479",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
